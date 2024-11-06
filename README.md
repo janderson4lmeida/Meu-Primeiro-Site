@@ -1,6 +1,6 @@
 # "_Dando vida a uma imagem..._"
 <p> Este desafio foi desenvolvido por mim para os alunos da terceira turma do Geração Tech, GT03 Online, no qual atuo como monitor;<br>
- aplico este desafio com objetivo melhorar as habiliades dos alunos e promover o maior aprendizado sobre o que foi visto do dia 15/10 até o dia 31/10, portando, agora é hora de colocar em prática tudo o que você, aluno(a), aprendeu no Módulo 1 com <strong>HTML, CSS, GIT e Bootstrap.</strong>
+ aplico este desafio com objetivo melhorar as habilidades dos alunos e promover o maior aprendizado sobre o que foi visto do dia 15/10 até o dia 31/10, portanto, agora é hora de colocar em prática tudo o que você, aluno(a), aprendeu no Módulo 1 com <strong>HTML, CSS, GIT e Bootstrap.</strong>
  <br>Para isso, você vai desenvolver um site simples baseado em uma Landing Page. Esse site será feito do zero, usando apenas HTML e CSS, para "dar vida" a uma imagem, ou seja, criar o site a partir do modelo visual de uma Landing Page.</p>
 
 <h2>O que é preciso fazer?</h2>
