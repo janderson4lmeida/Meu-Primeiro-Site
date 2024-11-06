@@ -28,7 +28,7 @@ Vocês deverão usar apenas o que aprenderam seguindo o cronograma até o final 
 
 <br> <strong>_Você deverá selecionar um número correspondendo a imagem selecionada:_</strong>
 
-**1. Petshop:**
+**1. Pet shop:**
 
  ![HelpDog (Desktop)](https://github.com/user-attachments/assets/d2f55f75-25a5-49fa-b34d-7c99bc455411)
 
