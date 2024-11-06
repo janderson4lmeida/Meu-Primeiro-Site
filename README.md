@@ -3,6 +3,7 @@ Vamos colocar em prática o que aprendemos até agora com o projeto  <b>“Meu p
 O projeto consiste em que vocês possam utilizar o que vocês já viram nas aulas gravadas e ao vivo, no Módulo 1 e com isso elaborar uma landin page para transformar a imagem em um site, ou seja,
 sua missão é desenvolver uma Landing page utilizando todas as ferramentas que já foram lhe apresentadas até o módulo 1 para elaborar esse site.<br>
 
+
 <br>
 Os requisitos do  projeto:
 <br>
