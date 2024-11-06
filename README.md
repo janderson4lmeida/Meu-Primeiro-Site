@@ -1,13 +1,13 @@
 # "_Dando vida a uma imagem_"
-Vamos colocar em prática o que aprendemos até agora com o projeto  <b>“Meu primeiro site”.</b> <br>
-O projeto consiste em que vocês possam utilizar o que vocês já viram nas aulas gravadas e ao vivo, no Módulo 1 e com isso elaborar uma landin page para transformar a imagem em um site, ou seja,
-sua missão é desenvolver uma Landing page utilizando todas as ferramentas que já foram lhe apresentadas até o módulo 1 para elaborar esse site.<br>
+Vamos colocar tudo o que aprendemos com os materiais e aulas gravadas/ao vivo, no Modulo 1, em prática agora com o projeto  <b>“Meu primeiro site”.</b> <br>
+O projeto consiste em que vocês possam utilizar tudo o que vocês já viram nas aulas e nos materiasi, no Módulo 1 e com isso elaborar um "site" apartir de uma landin page, ou seja,
+sua missão é desenvolver um site usando HTML e CSS, no caso "dando vida a uma imagem", a partir de uma Landing Page utilizando todas as ferramentas que já foram lhe apresentadas até o módulo 1 para elaborar esse site.<br>
 
 
 <br>
 Os requisitos do  projeto:
 <br>
-<Strong> Use a sua criatividade para implementar novas funcionalidades/efeitos e páginas dentro da ladingpage que você escolher</Strong>
+<Strong> Use a sua criatividade para implementar novas funcionalidades/efeitos e páginas dentro do site que você escolher</Strong>
 <br>
 <br>Estrutura HTML:
 Código HTML organizado, com uso adequado de tags para títulos, parágrafos, seções, listas e imagens.
